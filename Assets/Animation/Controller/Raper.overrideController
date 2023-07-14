@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Raper
+  m_Controller: {fileID: 9100000, guid: 974be8c1aa301934fb7c8d777a0c6a6b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cb78d363563dbfc4a8fbc51159391d24, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a15dc430ac9585b43976c0faf633a8f4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a19c42a9224be4644aa014087c8058ec, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7758c89e1cc4ba840bb6a726edf1943b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5303b1cf7f700e44aa06b30244998648, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b7e5a0b8cfbbfef46b67086d38384fe8, type: 2}
